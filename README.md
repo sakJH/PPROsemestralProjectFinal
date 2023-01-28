@@ -3,13 +3,11 @@ RecenzentiUHK - Spring boot Movie review website
 
 Name: Recezenti UHK
 
-#U sed Technologies
+# Used Technologies
 - Java
 - Spring Framework
 - MySQL
-- Apache
 - Docker (MySQL Server)
-- ? 
 
 # IDEA version 
 Intellij IDEA version 2022.2.3
