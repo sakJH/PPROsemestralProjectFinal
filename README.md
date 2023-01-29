@@ -10,7 +10,7 @@ Name: Recezenti UHK
 - Docker (MySQL Server)
 
 # IDEA version 
-Intellij IDEA version 2022.2.3
+Intellij IDEA ULTIMATE version 2022.2.3
 Init setting
 - Sprting Initializr
 -- Lang. -> Java 
