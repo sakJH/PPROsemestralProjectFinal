@@ -12,7 +12,7 @@ Name: Recezenti UHK
 ## IDEA version
 Intellij IDEA ULTIMATE version 2022.2.3
 Init setting
-- Sprting Initializr
+- Spring Initializer
   -- Lang. -> Java
   -- Type -> Maven Project
 
@@ -21,7 +21,7 @@ Project structure
 - Language -> 19
 
 ## Description
-Semestrální projekt na predmět Pokročilé progmování (PPRO) na FAKULTĚ INFORMATIKY A MANAGEMENTU NA UNIVERZITE V HRADCI KRÁLOVÉ
+Semestrální projekt na předmět Pokročilé progmování (PPRO) na FAKULTĚ INFORMATIKY A MANAGEMENTU NA UNIVERZITE V HRADCI KRÁLOVÉ
 
 
 # Docker a DB
